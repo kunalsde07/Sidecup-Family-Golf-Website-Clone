@@ -36,10 +36,5 @@ gsap.to("#main", {
   },
 });
 
-/*
-TOPTRACER RANGE
-GOLF LESSONS
-ADVENTURE GOLF
-CAFÉ
-EVENTS
-*/
+
+// card hover effect
